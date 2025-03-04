@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E. in Geological Engineering and Mechanics, Lanzhou University, 2024
+* Visiting Student, Westlake University, 2023
+* Exchange Student, Czech Technical University in Prague, 2023
 
-Work experience
+Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Researcher @ University of California, Berkeley (August 2024 - Present)
+  * Department of Earth and Planetary Science
+  * Supervisor: Michael Manga, Madison Douglas
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Scholar @ University of Minnesota (June 2024 - August 2024)
+  * St. Anthony Falls Laboratory (SAFL)
+  * Host: Judy Yang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer Undergraduate Research Fellow @ California Institute of Technology (June 2023 - August 2023)
+  * Division of Geological and Planetary Sciences
+  * Supervisor: Michael Lamb
   
 Skills
 ======
@@ -47,18 +44,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
